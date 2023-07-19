@@ -16,7 +16,6 @@ The Online Booking and Reservation System is an online application designed to s
   - [Search and View Tables](#search-and-view-tables)
   - [Book a Table](#book-a-table)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## Features
